@@ -1,0 +1,23 @@
+{
+  "name": "coding-school-ss2022-socketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.tailored-apps.com:coding-school/ss2022/webdevelopment/webdevelopment-codingschoolstudents-ss2022/coding-school-ss2022-socketio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@f0c1s/node-sha-lib": "^2021.3.23",
+    "express": "^4.18.1",
+    "mongodb": "^4.6.0",
+    "socket.io": "^4.5.0"
+  }
+}

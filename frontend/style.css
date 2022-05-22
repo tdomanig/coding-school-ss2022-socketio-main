@@ -1,0 +1,73 @@
+#user-nickname{
+    border: 1px solid;
+}
+#user-password{
+    border: 1px solid;
+}
+#login-btn{
+    border: 1px solid;
+    height:35px;
+    width: 75px;
+}
+#logout-btn{
+    border: 1px solid;
+    height:35px;
+    width: 75px;
+}
+#Newuser{
+    border: 1px solid;
+    margin-left: 55px;
+}
+#newPassword{
+    border: 1px solid;
+    margin-top: 5px;
+    margin-left: 58px;
+    margin-bottom: 5px;
+}
+#confirmPassword{
+    border: 1px solid;
+    margin-left: 2px;
+}
+#sendtodatabase{
+    border: 1px solid;
+    height:35px;
+    width: 75px;
+}
+#send-message{
+    border: 1px solid;
+    
+}
+#send-message-btn{
+    border: 1px solid;
+    margin-left:15px;
+    height:35px;
+    width: 175px;
+}
+#all-messages{
+    border: 1px solid;
+    margin-left:15px;
+    height:35px;
+    width: 175px;
+}
+.pwgenerator{
+    margin-left: 35px;
+}
+body{
+    margin-left:20px;
+    margin-top:20px;
+}
+#generate{
+    border: 1px solid;
+    height:35px;
+    width: 175px;
+}
+#chat-history{
+    border: 1px solid;
+    min-height: 500px;
+    width:400px;
+    margin-bottom: 20px;
+}
+.newUser{
+    display: flex;
+    flex-direction: row;
+}
